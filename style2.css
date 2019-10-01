@@ -1,0 +1,144 @@
+.bestPaper{
+  font-weight:bold;color:green;font-size:110%
+}
+
+.publicationList{list-style:none;margin-left:0;padding-left:0}
+
+.publicationTitle{font-size:140%;font-family:sans-serif;font-weight:normal;margin-right:0.5em}
+
+.yearList{padding-left:0px;margin-top:1em;width:600px}
+
+.yearList li{font-weight:300}
+
+#newsList{line-height:1.618;font-size:100%;font-weight:300}
+
+#newsList li{margin-top:0.5em;margin-bottom:0.3em}
+
+.year{font-size:150%}.entry{margin-bottom:1em}
+
+div.mycontainer{min-height:640px}
+
+div.tagCloud{margin-top:0em;margin-left:1em;padding-bottom:2em;clear:right;width:350px;float:right;line-height:225%;padding:1em;padding-left:2em;background-color:white;text-align:right}
+
+h2.tagCloud{margin-top:0em}
+
+a.abstractShow a.abstractHide{color:blue;cursor:pointer}
+
+a.abstractToggle{cursor:pointer}
+
+a.abstractToggle:hover{text-decoration:none}
+
+a.readExpand{cursor:pointer}
+
+a.readExpand:hover{text-decoration:none}
+
+a.keyword{font-weight:300;line-height:1.25}
+
+a.keyword:hover{text-decoration:none}
+
+a.icon{text-decoration:none;margin-left:0.15em;margin-right:0.15em}
+
+.readMore{display:none}div.abstract{display:none;background-color:rgb(249, 249, 247);margin-right:1em;padding:1em;padding-bottom:0.25em;width:100%;font-weight:400;line-height:1.618}
+
+p.abstract{font-family:sans-serif;text-align:justify}
+
+@media only screen and (max-device-width: 780px)  {div.abstract{width:100%;background:none}div.revealOnScroll{visibility:visible}}
+
+span.publicationInfo{font-style:italic}
+
+span.publicationConfShort{font-weight:normal}
+
+span.publicationConfLocation{font-style:normal}
+
+h2{font-size:1.8em;margin-top:1em }
+
+body{overflow-y:scroll }
+
+ul #topnav{margin:0 ;padding:0;float:left;width:970px;list-style:none;position:relative;font-size:2em}
+
+ul #topnav li{float:left;margin:0 ;padding:0;border-right:1px solid #555}
+
+ul #topnav li a{padding:10px 15px;display:block;color:#f0f0f0;text-decoration:none}
+
+ul #topnav li: hover{background:#1376c9 url(topnav_active.gif) repeat-x}
+
+h2 #myname{margin-top:0}
+
+ul.longList{padding:0;font-weight:300;line-height:1.618;font-size:100%;width:1024px}
+
+ul.longList li{line-height:1.618;margin-top:0.3em;margin-bottom:0.3em}
+
+.fa-li { 
+    text-align: center;
+    vertical-align: bottom;
+}
+
+ul .longlist li i{ 
+    text-align: center;
+    vertical-align: bottom;
+    margin-top: 0.2em;
+}
+
+.lastDiv{padding-bottom:400px}
+
+.revealOnScroll{visibility:hidden}
+
+body{background:white;font-family:sans-serif;line-height:1.618}
+
+div.nocollapse{clear:both}
+
+ul#nav{list-style-type:none;padding-left:0;margin-left:0;margin-bottom:0;margin-top:0em;padding-top:1em;padding-bottom:0px;border-bottom:solid;border-width:thin;border-color:lightgray;position:fixed;background-color:white;width:100%;z-index:100;background-color:white}
+
+ul#nav li{display:inline;font-size:1.8em;margin-right:1em}
+
+ul#nav a{border-bottom:none;padding:5px 15px 0px 15px;margin-right:5px;text-decoration:none;color:#333}
+
+ul#nav a.current{background-color:none;text-shadow:0px 0px 10px lightblue;border-bottom:solid}
+
+ul#nav a.inactive{background-color:none}
+
+div#header_container{margin-left:3em;margin-bottom:3em;margin-top:2.5em;float:right;width:auto;background:white;padding:1em}
+
+div#address{float:left;font-family:"Verdana", sans-serif;margin-right:1em;text-align:right}
+
+div#address a{text-decoration:none}
+
+div#mypic{float:right;padding-right:0.5em}
+
+div.mycontainer{background:white;padding:1em;padding-top:2em;font-family:sans-serif}
+
+div.outerContainer{width:90%;max-width:1200px;margin-left:auto;margin-right:auto}
+
+div#footer{width:90%;margin-left:auto;margin-right:auto;padding:1em;border-radius:25px}
+
+div#header h1{padding:0;margin:0;margin-bottom:0.3em;text-align:left;font-family:Verdana;font-weight:300}
+
+div.left{float:left;width:160px;margin:0;padding:1em}
+
+ul#publicationList{list-style:square;list-style-position:outside}
+
+ul#publicationList li{padding:1em}
+
+a.external:hover{
+  text-decoration:none;border-bottom:1px dashed #000
+}
+
+p.email{margin-top:0em}
+
+@media only screen and (orientation: portrait) {div.tagCloud{display:none}div#googleplus{display:none}div#header_container{width:90%}ul#nav{float:none;clear:both;margin-bottom:-2px}img#myimg{width:60px}div.OuterContainer{width:100%}ul#nav li{display:block;padding:0.5em}ul#nav a.current{border-top:none}}
+
+div.intro{font-size:120%;font-weight:300;line-height:1.618;text-align:justify;width:650px;margin-top:2em}
+
+h2{font-weight:400;font-size:1.8em}
+
+h2#myname{margin-top:0}
+
+a.anchor{color:black;padding-top:50px;margin-top:-50px}
+
+a.anchor:hover{text-decoration:none;text-color:black}
+
+ul.longList{padding:0;font-weight:300;line-height:1.618;font-size:100%;width:1024px}
+
+ul.longList li{line-height:1.618;margin-top:0.3em;margin-bottom:0.3em}
+
+div#misc { height: 1000px; } /* fix height of last div to ensure that we can jump to Misc correctly */
